@@ -62,3 +62,4 @@ class DocumentProcessor:
         processed_docs = self.text_splitter.split_documents(documents)
         logger.info(f"Created {len(processed_docs)} chunks")
         return processed_docs
+
