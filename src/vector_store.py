@@ -358,3 +358,4 @@ class VectorStore:
             import traceback
             logger.error(f"Stack trace: {traceback.format_exc()}")
             raise
+
