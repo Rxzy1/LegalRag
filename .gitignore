@@ -1,3 +1,4 @@
 .env
 *.pyc
 document_uploader.log
+
